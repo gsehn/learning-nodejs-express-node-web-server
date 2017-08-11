@@ -22,7 +22,7 @@ app.use((req, res, next) => { // Middleware
 
 // app.use((req, res) => { // Took the 'next' variable out, and it works
 // 	res.render('maintenance.hbs');
-// }); Test
+// });
 
 app.use(express.static(__dirname + '/public'));
 
