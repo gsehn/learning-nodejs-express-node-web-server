@@ -1,0 +1,12 @@
+{
+  "name": "learning-nodejs-express-node-web-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/gsehn/learning-nodejs-express-node-web-server.git",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.4",
+    "hbs": "^4.0.1",
+    "moment": "^2.18.1"
+  }
+}
