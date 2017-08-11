@@ -2,6 +2,9 @@
   "name": "learning-nodejs-express-node-web-server",
   "version": "1.0.0",
   "main": "index.js",
+	"scripts": {
+	"start": "node server.js"
+	},
   "repository": "https://github.com/gsehn/learning-nodejs-express-node-web-server.git",
   "license": "MIT",
   "dependencies": {
